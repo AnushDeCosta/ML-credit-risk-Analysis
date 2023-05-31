@@ -26,7 +26,16 @@ Model 2 achieves a superior accuracy score of 0.9942, indicating that it accurat
 ## Conclusion
 In conclusion, the logistic regression model trained with resampled data (Model 2) surpasses the performance of the model using original data (Model 1), particularly in forecasting high-risk loans. The heightened precision and recall scores for high-risk loans with Model 2 are crucial in minimizing prospective financial losses for the lending company. Therefore, Model 2 is recommended for credit risk analysis. Its deployment will empower the company to effectively evaluate loan applications and make well-informed decisions, thus mitigating credit risk.
 
+## Tools
+- Python
+- Pandas
+- Numpy
+- scikit-learn
+- Jupyter Notebook
 
+## Files
+- [Machine Learning Model Script](./credit_risk_classification.ipynb)
+- [Lending Data Set](./Resources/lending_data.csv)
 
 
 
